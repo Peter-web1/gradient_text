@@ -1,0 +1,23 @@
+body{
+	background-color: #333333;
+	margin:0;
+	padding:0;
+}
+h1{
+	font-size:135px;
+	color:white;
+	font-family:'Oleo Script',cursive;
+	text-align:center;
+}
+.txt1{
+	background:linear-gradient(to right, #ee0979,#ff6eee);
+	-webkit-background:linear-gradient(to right, #ee0979,#ff6eee);
+	-webkit-text-fill-color:transparent;
+	-webkit-background-clip:text;
+}
+.txt2{
+	background:linear-gradient(to right, #00e3ff,#ff6eee);
+	-webkit-background:linear-gradient(to right, #ee0979,#ff6eee);
+	-webkit-text-fill-color:transparent;
+	-webkit-background-clip:text;
+}
